@@ -24,6 +24,27 @@ pytest -v                                    # All tests: 25 passed, 2 skipped
 ```
 
 ---
+## Project Structure
+
+```
+intuit-build-challenge/
+├── pc_001/
+│   ├── producer_consumer.py    # Producer-Consumer implementation
+│   └── test_producer_consumer.py
+├── sa_001/
+│   ├── sales_analysis.py       # Sales analysis implementation
+│   ├── test_sales_analysis.py
+│   └── data/
+│       └── sales_sample.csv
+├── terminal_outputs/
+│   ├── assignment1_output1.png
+│   ├── assignment2_output1.png
+│   ├── assignment2_output2.png
+│   └── assignment2_output3.png
+├── requirements.txt
+└── README.md
+```
+---
 
 ## PC-001: Producer-Consumer Pattern
 
@@ -96,55 +117,6 @@ Data analysis application using pandas with functional programming patterns (lam
 
 *Screenshot 3: Complete test suite execution (`pytest -v`) showing all tests for both assignments: PC-001 (12 passed, 2 skipped) and SA-001 (13 passed), totaling 25 passed and 2 skipped in 1.14s, demonstrating comprehensive test coverage.*
 
-```
-============================================================
-=== Sales Analysis ===
-============================================================
-
-Total Revenue: $15,704.94
-
-------------------------------------------------------------
-Revenue by Region:
-------------------------------------------------------------
-  East            $    4,164.65
-  North           $    4,405.39
-  South           $    2,849.14
-  West            $    4,285.76
-
-------------------------------------------------------------
-Revenue by Product:
-------------------------------------------------------------
-  Laptop Pro                $    4,823.95
-  Monitor 27inch            $    2,610.93
-  Office Chair              $    2,387.40
-  Standing Desk             $    1,589.97
-  Webcam HD                 $    1,015.87
-  ...
-
-------------------------------------------------------------
-Monthly Revenue:
-------------------------------------------------------------
-  2024-01         $    4,639.54
-  2024-02         $    5,963.43
-  2024-03         $    5,101.97
-
-------------------------------------------------------------
-Top 5 Products by Revenue:
-------------------------------------------------------------
-  1. Laptop Pro              $    4,823.95
-  2. Monitor 27inch          $    2,610.93
-  3. Office Chair            $    2,387.40
-  4. Standing Desk           $    1,589.97
-  5. Webcam HD               $    1,015.87
-
-------------------------------------------------------------
-Average Discount by Category:
-------------------------------------------------------------
-  Accessories                   5.0%
-  Electronics                  10.7%
-  Furniture                    12.9%
-============================================================
-```
 
 ### Testing Objectives Met ✅
 
@@ -163,28 +135,6 @@ Average Discount by Category:
 
 **Deliverables**: Public repository ✅ | Source code ✅ | Unit tests ✅ | README with setup ✅ | Sample output ✅
 
----
-
-## Project Structure
-
-```
-intuit-build-challenge/
-├── pc_001/
-│   ├── producer_consumer.py    # Producer-Consumer implementation
-│   └── test_producer_consumer.py
-├── sa_001/
-│   ├── sales_analysis.py       # Sales analysis implementation
-│   ├── test_sales_analysis.py
-│   └── data/
-│       └── sales_sample.csv
-├── terminal_outputs/
-│   ├── assignment1_output1.png
-│   ├── assignment2_output1.png
-│   ├── assignment2_output2.png
-│   └── assignment2_output3.png
-├── requirements.txt
-└── README.md
-```
 
 ---
 
