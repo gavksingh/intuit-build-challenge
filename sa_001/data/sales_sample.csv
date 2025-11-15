@@ -1,0 +1,27 @@
+order_id,date,region,product,category,quantity,unit_price,discount,salesperson
+1,2024-01-05,North,Laptop Pro,Electronics,2,899.99,0.10,Alice
+2,2024-01-08,South,Wireless Mouse,Electronics,5,29.99,0.05,Bob
+3,2024-01-12,East,Office Chair,Furniture,3,249.99,0.15,Charlie
+4,2024-01-15,West,Desk Lamp,Furniture,10,39.99,0.00,Diana
+5,2024-01-18,North,USB Cable,Accessories,20,12.99,0.10,Alice
+6,2024-01-22,South,Monitor 27inch,Electronics,4,349.99,0.20,Bob
+7,2024-01-25,East,Keyboard Mechanical,Electronics,6,89.99,0.10,Charlie
+8,2024-02-01,West,Standing Desk,Furniture,2,599.99,0.15,Diana
+9,2024-02-05,North,Webcam HD,Electronics,8,79.99,0.05,Alice
+10,2024-02-08,South,Mouse Pad,Accessories,15,14.99,0.00,Bob
+11,2024-02-12,East,Laptop Pro,Electronics,3,899.99,0.12,Charlie
+12,2024-02-15,West,Office Chair,Furniture,5,249.99,0.20,Diana
+13,2024-02-18,North,HDMI Cable,Accessories,12,19.99,0.05,Alice
+14,2024-02-22,South,Desk Lamp,Furniture,7,39.99,0.10,Bob
+15,2024-02-25,East,Wireless Mouse,Electronics,10,29.99,0.15,Charlie
+16,2024-03-01,West,Monitor 27inch,Electronics,2,349.99,0.10,Diana
+17,2024-03-05,North,Standing Desk,Furniture,1,599.99,0.05,Alice
+18,2024-03-08,South,Keyboard Mechanical,Electronics,4,89.99,0.00,Bob
+19,2024-03-12,East,USB Cable,Accessories,18,12.99,0.10,Charlie
+20,2024-03-15,West,Webcam HD,Electronics,6,79.99,0.15,Diana
+21,2024-03-18,North,Mouse Pad,Accessories,20,14.99,0.05,Alice
+22,2024-03-22,South,Office Chair,Furniture,4,249.99,0.25,Bob
+23,2024-03-25,East,HDMI Cable,Accessories,10,19.99,0.00,Charlie
+24,2024-03-28,West,Laptop Pro,Electronics,1,899.99,0.08,Diana
+25,2024-03-30,North,Monitor 27inch,Electronics,3,349.99,0.18,Alice
+
